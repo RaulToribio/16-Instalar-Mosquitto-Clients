@@ -1,5 +1,3 @@
-# 16-Instalar-Mosquitto-Clients
-
 # Introducción
 
 Los clientes de Mosquitto son programas o aplicaciones que se utilizan para conectarse a un servidor Mosquitto y enviar o recibir mensajes utilizando el protocolo MQTT. Estos clientes pueden ser ejecutados en diferentes dispositivos o plataformas, como computadoras, dispositivos IoT, smartphones, y más. Algunos ejemplos de clientes de Mosquitto son:
